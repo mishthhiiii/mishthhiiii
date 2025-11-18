@@ -1,10 +1,4 @@
 # Mishthi-Chaurasia
-Alright, I’ll give you something **unique**, not a lazy copy of your friend’s README.
-I’ll also add **animated elements**, **gradient styling**, and a **clean aesthetic** so your profile actually stands out.
-
-Here’s a **fresh, animated, modern GitHub README** tailored to *you*:
-
----
 
 # 🌟 **Hey, I'm Mishthi Chaurasia!**
 
