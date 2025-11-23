@@ -84,18 +84,6 @@ and yeah, I don’t shy away from tough challenges.
 
 ---
 
-# ✨ **GitHub Highlights**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" />
-</div>
-
----
-
 # 🛠️ **Featured Projects**
 
 (Replace these with real ones later.)
