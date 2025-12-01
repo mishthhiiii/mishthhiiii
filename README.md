@@ -3,7 +3,7 @@
 **ECE Engineer | Embedded Systems Developer | AI Integration Enthusiast**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F72585&width=650&lines=Hardware+%2B+Intelligence+%3D+Real+Innovation.;Building+Embedded+%26+AI-Driven+Systems.;Where+Electronics+Meets+Decision-Making.;Turning Ideas into Reality." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F72585&width=650&lines=Hardware+%2B+Intelligence+%3D+Real+Innovation.;Building+Embedded+%26+AI-Driven+Systems.;Where+Electronics+Meets+Decision-Making.;Turning+Ideas+Into+Reality." />
 </div>
 
 ---
@@ -65,7 +65,9 @@ and improving a little every day.
 <p><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mysql,mongodb"/></p>
 
 ### **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,figma,canva,matlab"/></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,canva,matlab"/>
+</p>
 
 ---
 
@@ -105,7 +107,7 @@ Pranveer Singh Institute of Technology | CGPA: 7.8
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect !
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mishthi-chaurasia/">
@@ -118,5 +120,4 @@ Pranveer Singh Institute of Technology | CGPA: 7.8
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 
