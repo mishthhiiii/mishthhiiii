@@ -116,8 +116,5 @@ Pranveer Singh Institute of Technology | CGPA: 7.8
   <a href="mailto:mishthichaurasia02@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/mishthhiiii">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
