@@ -3,7 +3,7 @@
 **ECE Engineer | Embedded Systems Developer | AI Integration Enthusiast**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F72585&width=650&lines=Hardware+%2B+Intelligence+%3D+Real+Innovation.;Building+Embedded+%26+AI-Driven+Systems.;Where+Electronics+Meets+Decision-Making.;Always+Learning.+Always+Engineering." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F72585&width=650&lines=Hardware+%2B+Intelligence+%3D+Real+Innovation.;Building+Embedded+%26+AI-Driven+Systems.;Where+Electronics+Meets+Decision-Making.;Turning Ideas into Reality." />
 </div>
 
 ---
